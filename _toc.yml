@@ -1,0 +1,62 @@
+format: jb-book
+root: intro
+chapters:
+  # BLOCK 1: Computational Thinking & Foundations
+  - file: block01/overview.md
+    sections:
+      - file: week01/overview.md
+        sections:
+          - file: week01/course-introduction.md
+          - file: week01/getting-started.md
+          - file: week01/variables-and-naming.ipynb
+          - file: week01/exercises.md
+          - file: week01/exercises-interactive.ipynb
+      - file: week02/overview.md
+        sections:
+          - file: week02/syntax.md
+          - file: week02/operators.md
+          - file: week02/data-types.ipynb
+          - file: week02/exercises.md
+          - file: week02/exercises-interactive.ipynb
+      - file: week03/overview.md
+        sections:
+          - file: week03/string-methods.md
+          - file: week03/exercises-interactive.ipynb
+      - file: week04/overview.md
+        sections:
+          - file: week04/functions-basics.ipynb
+  # BLOCK 2: Data Structures & Computation
+  - file: block02/overview.md
+    sections:
+      - file: week05/overview.md
+        sections:
+          - file: week05/for-loops.md
+      - file: week06/overview.md
+        sections:
+          - file: week06/lists-basics.md
+          - file: week06/lists-tuples.ipynb
+      - file: week07/overview.md
+        sections:
+          - file: week07/dictionaries-basics.md
+          - file: week07/dictionaries.ipynb
+  # BLOCK 3: Systems & Integration
+  - file: block03/overview.md
+    sections:
+      - file: week08/overview.md
+        sections:
+          - file: week08/modules-basics.md
+      - file: week09/overview.md
+        sections:
+          - file: week09/files-basics.md
+      - file: week10/overview.md
+      - file: week11/overview.md
+        sections:
+          - file: week11/postgres-python.ipynb
+  # BLOCK 4: Python + Robotics
+  - file: block04/overview.md
+    sections:
+      - file: week12/overview.md
+      - file: week13/overview.md
+        sections:
+          - file: week13/robotics-basics.md
+      - file: week14/overview.md

@@ -1,0 +1,19 @@
+title: Python Programming Textbook
+author: Timothy D. Bowman
+
+execute:
+  execute_notebooks: auto
+  
+html:
+  use_repository_button: false
+  use_issues_button: false
+
+# Add this for GitHub Pages
+project:
+  github: https://github.com/tdbowman/tbowman.github.io
+
+# IMPORTANT: Set correct base URL
+site:
+  template: book-theme
+  options:
+    favicon: favicon.ico
