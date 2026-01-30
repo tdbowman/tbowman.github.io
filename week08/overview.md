@@ -72,7 +72,8 @@ All assignments are due by 11:59 PM on the specified date in Canvas
 ## Key Concepts
 
 ```{important}
-**Modules are Python files.** Any `.py` file can be imported as a module. This lets you organize large programs into manageable pieces.
+** Modules are Python files.** Any `.py` file can be imported as a module.
+** This lets you organize large programs into manageable pieces.
 ```
 
 ### Why Modules Matter
