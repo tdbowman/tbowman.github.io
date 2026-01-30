@@ -1,6 +1,6 @@
 # Block 3: Systems, APIs, AI & Object Thinking
 
-**Duration:** Weeks 8-11 (Late October - Mid November)  
+**Duration:** Weeks 8-11
 **Core Question:** *How do programs interact with other systems and make decisions?*
 
 ---
@@ -77,11 +77,11 @@ Modern software doesn't exist in isolation—it connects to databases, APIs, clo
 ## 📝 Assignments in This Block
 
 ### Programming Assignments
-- **Assignment 2** - Due Week 11
+- **Assignment 2**
   - Work with files and structured data
   - Apply modules and organization
 
-- **Assignment 3** - Assigned Week 10 *(Due Week 13)*
+- **Assignment 3**
   - Work with APIs or databases
   - Integrate external data sources
   - Build a complete data pipeline
