@@ -60,10 +60,9 @@ All assignments are due by 11:59 PM on the specified date in Canvas
 ## Readings
 
 **Required:**
-- Parker, J. R. (2021) - Chapter 1
-- Speight, A. (2020) - Chapter 4 (Variables)
-- Mastrodomenico, R. (2022) - Chapter 4 (Data Types)
-
+- Speight, A. (2020) - Chapters 5-7
+-- Parker, J. R. (2021) - Chapter 1
+  
 **Supplemental:**
 - [Python Data Types - W3Schools](https://www.w3schools.com/python/python_datatypes.asp)
 - [Python Operators - Real Python](https://realpython.com/python-operators-expressions/)
