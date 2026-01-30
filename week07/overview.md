@@ -67,12 +67,12 @@ All assignments are due by 11:59 PM on the specified date in Canvas
 ## Readings
 
 **Required:**
-- Mastrodomenico, R. (2022) - Chapter 9 (Dictionaries)
-- Parker, J. R. (2021) - Chapter 8 (Dictionaries)
-- Speight, A. (2020) - Chapter 8 (Dictionaries)
+- Mastrodomenico, R. (2022) - Chapter 9 
+   - Parker, J. R. (2021) - Chapter 8 
+   - Speight, A. (2020) - Chapter 8 
 
 **Recommended:**
-- [Python Dictionaries - W3Schools](https://www.w3schools.com/python/python_dictionaries.asp)
+- [W3Schools - Python Dictionaries - W3Schools](https://www.w3schools.com/python/python_dictionaries.asp)
 - [Real Python - Dictionaries](https://realpython.com/python-dicts/)
 
 ## Key Concepts
