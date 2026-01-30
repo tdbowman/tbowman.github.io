@@ -59,12 +59,14 @@ All assignments are due by 11:59 PM on the specified date in Canvas
 ## Readings
 
 **Required:**
-- Mastrodomenico, R. (2022) - Chapter 11 (Loops)
-- Review course materials on loops
+- Speight - Chapters 9, 10
+   - Mastrodomenico, R. (2022) - Chapter 11 (Loops)
+   - Parker - Chapter 2
+   - Review course materials on loops
 
 **Recommended:**
-- [Python For Loops](https://www.w3schools.com/python/python_for_loops.asp)
-- [Python While Loops](https://www.w3schools.com/python/python_while_loops.asp)
+- [W3Studio - Python For Loops](https://www.w3schools.com/python/python_for_loops.asp)
+- [W3Studio - Python While Loops](https://www.w3schools.com/python/python_while_loops.asp)
 - [Real Python - For Loops](https://realpython.com/python-for-loop/)
 
 ## Key Concepts
