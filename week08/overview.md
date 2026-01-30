@@ -60,12 +60,14 @@ All assignments are due by 11:59 PM on the specified date in Canvas
 ## Readings
 
 **Required:**
-- Review course materials on modules
-- "Byte of Python" - Modules chapter
+- Speight - Chapter 13
+- Mastrodomenico - Chapter 16
+   - Review course materials on modules
 
 **Recommended:**
-- [Python Modules](https://docs.python.org/3/tutorial/modules.html)
-- [Python Standard Library](https://docs.python.org/3/library/)
+- [Python Docs - Modules](https://docs.python.org/3/tutorial/modules.html)
+- [Python Docs - Standard Library](https://docs.python.org/3/library/)
+- [RealPython - Modules/Packages](https://realpython.com/python-modules-packages/)
 
 ## Key Concepts
 
