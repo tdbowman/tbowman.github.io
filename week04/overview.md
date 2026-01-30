@@ -58,12 +58,14 @@ All assignments are due by 11:59 PM on the specified date in Canvas
 ## Readings
 
 **Required:**
-- Parker, J. R. (2021) - Functions chapter
-- Review course materials on functions
+- Speight - Chapter 11
+   - Parker, J. R. (2021) - Chapter 4
+   - Review course materials on functions
 
 **Recommended:**
 - [Python Functions Tutorial](https://www.w3schools.com/python/python_functions.asp)
 - [Real Python - Defining Functions](https://realpython.com/defining-your-own-python-function/)
+- [Geeks for Geeks - User-Defined Functions](https://www.geeksforgeeks.org/python/python-user-defined-functions/)
 
 ## Key Concepts
 
