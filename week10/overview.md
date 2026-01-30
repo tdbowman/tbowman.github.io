@@ -47,6 +47,17 @@ All assignments are due by 11:59 PM on the specified date in Canvas
 - **Assignment 3** - Assigned this week
 - **Weekly Discussion** - Participate in forum
 
+## Readings
+
+**Required:**
+- Mastrodomenico - Chapter 18
+   - Review course materials on modules
+
+**Recommended:**
+- [Real Python - API Integration](https://realpython.com/api-integration-in-python/)
+- [Moesif - API Tutorial](https://www.moesif.com/blog/technical/api-development/Python-API-Tutorial/)
+
+
 ---
 
 ## Internet Data & APIs - Quick Guide
