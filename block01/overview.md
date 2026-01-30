@@ -74,13 +74,13 @@ Programming isn't about memorizing syntax—it's about developing a new way of t
 ## 📝 Assignments in This Block
 
 ### Interactive Exercises (Auto-Graded)
-- **Exercise 1** - Variables and Naming *(Week 1)*
-- **Exercise 2** - Data Types and Operators *(Week 2)*
-- **Exercise 3** - Strings and Formatting *(Week 3)*
-- **Exercise 4** - Fun with Functions *(Week 4)*
+- **Exercise 1** - Variables and Naming 
+- **Exercise 2** - Data Types and Operators 
+- **Exercise 3** - Strings and Formatting 
+- **Exercise 4** - Fun with Functions 
 
 ### Programming Assignment
-- **Assignment 1: Data Processing with Lists and Tuples** *(Due end of Week 4)*
+- **Assignment 1: Data Processing with Lists and Tuples** 
   - Apply what you've learned to real data
   - Practice functions, loops, and data structures
   - Build a complete program from scratch
