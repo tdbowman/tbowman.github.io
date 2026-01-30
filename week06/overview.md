@@ -62,12 +62,14 @@ All assignments are due by 11:59 PM on the specified date in Canvas
 ## Readings
 
 **Required:**
-- Mastrodomenico, R. (2022) - Chapters 7 & 8 (Lists and Tuples)
-- Review course materials
+- Mastrodomenico, R. (2022) - Chapters 7 & 8
+   - Parker -Chapter 3
+   - Speight - Chapter 8
+   - Review course materials
 
 **Recommended:**
-- [Python Lists](https://www.w3schools.com/python/python_lists.asp)
-- [Python Tuples](https://www.w3schools.com/python/python_tuples.asp)
+- [W3Schools - Python Lists](https://www.w3schools.com/python/python_lists.asp)
+- [W3Schools - Python Tuples](https://www.w3schools.com/python/python_tuples.asp)
 - [Real Python - Lists and Tuples](https://realpython.com/python-lists-tuples/)
 
 ## Key Concepts
