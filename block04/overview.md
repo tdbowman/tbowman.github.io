@@ -1,6 +1,6 @@
 # Block 4: Python + Robotics (No Hardware Capstone)
 
-**Duration:** Weeks 12-14 (Late November - December)  
+**Duration:** Weeks 12-14 
 **Core Question:** *How do software systems perceive, decide, and act?*
 
 ---
@@ -149,7 +149,7 @@ class Robot:
 
 ### Technical Requirements
 
-| Requirement | Undergraduate (LIS 440) | Graduate (LIS 805) |
+| Requirement | Undergraduate (INF 440) | Graduate (LIS 805) |
 |-------------|------------------------|-------------------|
 | Movement logic | ✔️ Required | ✔️ Required |
 | OOP design | ✔️ Required | ✔️ Required (advanced) |
