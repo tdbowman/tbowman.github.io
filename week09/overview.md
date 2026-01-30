@@ -50,6 +50,8 @@ All assignments are due by 11:59 PM on the specified date in Canvas
 
 - **Weekly Discussion** - Participate in forum
 
+---
+
 ## Readings
 
 **Required:**
