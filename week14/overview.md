@@ -293,7 +293,7 @@ Choose ONE of the following project types:
 
 ### Where to Submit
 - Upload all files to Canvas
-- Due: **December 2, 11:59 PM**
+- Due: SEE CANVAS**
 
 ### File Checklist
 - [ ] `robot_capstone.py` (your code)
