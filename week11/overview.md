@@ -49,6 +49,24 @@ All assignments are due by 11:59 PM on the specified date in Canvas
 - **Assignment 2** - Due this week
 - **Weekly Discussion** - Participate in forum
 
+
+## Readings
+
+**Required:**
+### JSON
+- [Real Python - Working with JSON data](https://realpython.com/python-json/)
+- [The Hitchhiker's Guide to Python > JSON](https://docs.python-guide.org/scenarios/json/)
+- [W3C > Python JSON](https://www.w3schools.com/python/python_json.asp)
+- [The New Stack > Python for Beginners: How to Use JSON in Python](https://thenewstack.io/python-for-beginners-how-to-use-json-in-python/)
+
+### XML
+- [Real Python > A Roadmap to XML Parsers in Python](https://realpython.com/python-xml-parser/)
+- [The Hitchhiker's Guide to Python > XML Parsing](https://docs.python-guide.org/scenarios/xml/)
+
+### POSTGRESQL
+- [FreeCodeCamp > How to Use Postgres in Python](https://www.freecodecamp.org/news/postgresql-in-python/)
+- [PYnative > Python PostgreSQL Tutorial Using Psycopg2](https://pynative.com/python-postgresql-tutorial/)
+
 ---
 
 ## JSON in Python - Quick Guide
