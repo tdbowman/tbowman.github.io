@@ -63,7 +63,7 @@ All assignments are due by 11:59 PM on the specified date in Canvas
    - Review course materials on functions
 
 **Recommended:**
-- [Python Functions Tutorial](https://www.w3schools.com/python/python_functions.asp)
+- [W3Schools - Python Functions Tutorial](https://www.w3schools.com/python/python_functions.asp)
 - [Real Python - Defining Functions](https://realpython.com/defining-your-own-python-function/)
 - [Geeks for Geeks - User-Defined Functions](https://www.geeksforgeeks.org/python/python-user-defined-functions/)
 
