@@ -103,7 +103,7 @@ Choose ONE of the following project types:
 
 ## 📋 Technical Requirements
 
-### Undergraduate (LIS 440)
+### Undergraduate (INF 440)
 
 **Required:**
 - ✅ Working robot navigation (move, turn, sense)
