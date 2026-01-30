@@ -65,8 +65,8 @@ All assignments are due by 11:59 PM on the specified date in Canvas
    - Review course materials on loops
 
 **Recommended:**
-- [W3Studio - Python For Loops](https://www.w3schools.com/python/python_for_loops.asp)
-- [W3Studio - Python While Loops](https://www.w3schools.com/python/python_while_loops.asp)
+- [W3Schools - Python For Loops](https://www.w3schools.com/python/python_for_loops.asp)
+- [W3Schools - Python While Loops](https://www.w3schools.com/python/python_while_loops.asp)
 - [Real Python - For Loops](https://realpython.com/python-for-loop/)
 
 ## Key Concepts
