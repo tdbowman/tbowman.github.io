@@ -68,21 +68,21 @@ Data is everywhere—in files, databases, APIs, and user input. Block 2 teaches 
 ## 📝 Assignments in This Block
 
 ### Interactive Exercises
-- **Exercise 4** - Loop the Loop *(Week 5)*
-- **Exercise 5** - Dictionary Delve *(Week 7)*
+- **Exercise 4** - Loop the Loop
+- **Exercise 5** - Dictionary Delve 
 
 ### Programming Assignments
-- **Assignment 2** - Assigned Week 8 *(Due Week 11)*
+- **Assignment 2**
   - Apply data structures to real problems
   - Work with files and structured data
 
 ### Projects
-- **Group Project Idea** - Due Week 7
+- **Group Project Idea** 
   - Propose a data-driven project
   - Form teams and plan approach
 
 ### Assessments
-- **MIDTERM EXAM** - Week 7
+- **MIDTERM EXAM** 
   - Covers Blocks 1-2 (Weeks 1-6)
   - Programming fundamentals
   - Data structures and loops
