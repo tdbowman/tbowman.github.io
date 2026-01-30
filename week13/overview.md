@@ -77,6 +77,19 @@ This is the core loop:
 4. **Repeat** - Loop continuously
 ```
 
+
+## Readings
+
+**Required:**
+- TBD
+
+**Recommended**
+- [RobotPy Documentation](https://robotpy.readthedocs.io/en/stable/)
+- [Webots - Robotics Simulation Services](https://cyberbotics.com/)
+- [Robot Framework](https://robotframework.org/)
+   - [A New Python API for Webots Robotics Simulations. July 22, 2022.](https://proceedings.scipy.org/articles/majora-212e5952-016) 
+
+
 ---
 
 Let's start with [Robotics Fundamentals](robotics-basics.md)!
