@@ -1,6 +1,6 @@
 # Block 2: Data Structures & Meaningful Computation
 
-**Duration:** Weeks 5-7 (Late September - Mid October)  
+**Duration:** Weeks 5-7  
 **Core Question:** *How do programs manage and interpret information?*
 
 ---
