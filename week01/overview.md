@@ -57,6 +57,7 @@ All assignments are due by 11:59 PM on the specified date in Canvas
 ## Readings
 
 **Required:**
+- Speight - Chapters 0-4
 - Parker - Chapters 0, 1
 - Mastrodomenico - Chapters 1, 2
 
