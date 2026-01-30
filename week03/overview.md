@@ -62,8 +62,7 @@ All assignments are due by 11:59 PM on the specified date in Canvas
 ## Readings
 
 **Required:**
-- Speight, A. (2020) - Chapter 6 (Strings)
-- Mastrodomenico, R. (2022) - Chapter 4 (Data Types, review)
+- Mastrodomenico, R. (2022) - Chapter 12
 
 **Recommended:**
 - [Python String Methods](https://www.w3schools.com/python/python_ref_string.asp)
