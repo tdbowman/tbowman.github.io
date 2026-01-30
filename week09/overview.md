@@ -48,7 +48,6 @@ Welcome to Week 9! File handling lets your programs read and write data, making 
 All assignments are due by 11:59 PM on the specified date in Canvas
 ```
 
-- **Group Project Idea** - Due this week
 - **Weekly Discussion** - Participate in forum
 
 ## Readings
