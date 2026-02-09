@@ -40,6 +40,7 @@ chapters:
         sections:
           - file: week07/dictionaries-basics.md
           - file: week07/dictionaries.ipynb
+          - file: week07//LastName_FirstName_Exc5.ipynb
   # BLOCK 3: Systems & Integration
   - file: block03/overview.md
     sections:
