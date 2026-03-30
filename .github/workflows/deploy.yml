@@ -25,7 +25,7 @@ jobs:
 
       - name: Build the book
         env:
-          BASE_URL: /lis971-ebook
+          BASE_URL: /tbowman.github.io
         run: myst build --html
 
       - name: Upload artifact
