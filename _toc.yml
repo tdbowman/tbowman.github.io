@@ -1,6 +1,6 @@
 format: jb-book
 root: intro
-chapters:
+chapters: 
   # BLOCK 1: Computational Thinking & Foundations
   - file: block01/overview.md
     sections:
