@@ -1,6 +1,7 @@
 format: jb-book
 root: intro
 chapters: 
+  - file: getting-started.md
   # BLOCK 1: Computational Thinking & Foundations
   - file: block01/overview.md
     sections:
@@ -83,3 +84,6 @@ chapters:
       - file: week14/overview.md
         sections:
           - file: week14/walkthrough.ipynb
+  - file: wrap-up.md
+  - file: glossary.md
+  - file: references.md
