@@ -1,5 +1,12 @@
 # Introduction to Programming in Python
 
+```{image} assets/cover.jpg
+:alt: Introduction to Programming in Python — INF 426 / LIS 826, Fall 2026
+:width: 340px
+:align: center
+```
+
+
 **Course: INF 426 / LIS 826**  
 **Instructor: Dr. Timothy D. Bowman**
 

@@ -1,0 +1,9 @@
+<svg viewBox="0 0 600 480" width="600" height="480" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="180.00" cy="420.00" r="13.20" fill="#A8431D" opacity="0.55"/><circle cx="300.00" cy="420.00" r="13.20" fill="#A8431D" opacity="0.55"/><circle cx="420.00" cy="420.00" r="13.20" fill="#A8431D" opacity="0.55"/><circle cx="540.00" cy="420.00" r="13.20" fill="#A8431D" opacity="0.55"/><circle cx="60.00" cy="300.00" r="13.20" fill="#A8431D" opacity="0.55"/><circle cx="180.00" cy="300.00" r="13.20" fill="#A8431D" opacity="0.55"/><circle cx="300.00" cy="300.00" r="13.20" fill="#A8431D" opacity="0.55"/><circle cx="420.00" cy="300.00" r="13.20" fill="#A8431D" opacity="0.55"/><circle cx="540.00" cy="300.00" r="13.20" fill="#A8431D" opacity="0.55"/><circle cx="60.00" cy="180.00" r="13.20" fill="#A8431D" opacity="0.55"/><circle cx="180.00" cy="180.00" r="13.20" fill="#A8431D" opacity="0.55"/><circle cx="300.00" cy="180.00" r="13.20" fill="#A8431D" opacity="0.55"/><circle cx="420.00" cy="180.00" r="13.20" fill="#A8431D" opacity="0.55"/><circle cx="540.00" cy="180.00" r="13.20" fill="#A8431D" opacity="0.55"/><circle cx="60.00" cy="60.00" r="13.20" fill="#A8431D" opacity="0.55"/><circle cx="180.00" cy="60.00" r="13.20" fill="#A8431D" opacity="0.55"/><circle cx="300.00" cy="60.00" r="13.20" fill="#A8431D" opacity="0.55"/><circle cx="420.00" cy="60.00" r="13.20" fill="#A8431D" opacity="0.55"/>
+  <path d="M 60.00 420.00 L 180.00 420.00 L 180.00 180.00 L 420.00 180.00 L 420.00 60.00 L 540.00 60.00" fill="none" stroke="#A8431D" stroke-width="33.00"
+        stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="60.00" cy="420.00" r="31.35" fill="#A8431D"/>
+  <rect x="505.35" y="25.35"
+        width="69.30" height="69.30"
+        fill="#E8B33C" transform="rotate(45 540.00 60.00)"/>
+</svg>
