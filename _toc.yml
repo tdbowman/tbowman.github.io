@@ -11,6 +11,7 @@ chapters:
           - file: week01/variables-and-naming.ipynb
           - file: week01/exercises.md
           - file: week01/exercises-interactive.ipynb
+          - file: week01/walkthrough.ipynb
       - file: week02/overview.md
         sections:
           - file: week02/syntax.md
@@ -18,13 +19,16 @@ chapters:
           - file: week02/data-types.ipynb
           - file: week02/exercises.md
           - file: week02/exercises-interactive.ipynb
+          - file: week02/walkthrough.ipynb
       - file: week03/overview.md
         sections:
           - file: week03/string-methods.md
           - file: week03/exercises-interactive.ipynb
+          - file: week03/walkthrough.ipynb
       - file: week04/overview.md
         sections:
           - file: week04/functions-basics.ipynb
+          - file: week04/walkthrough.ipynb
   # BLOCK 2: Data Structures & Computation
   - file: block02/overview.md
     sections:
@@ -32,39 +36,50 @@ chapters:
         sections:
           - file: week05/for-loops.md
           - file: week05//LastName_FirstName_Exc4.ipynb
+          - file: week05/walkthrough.ipynb
       - file: week06/overview.md
         sections:
           - file: week06/lists-basics.md
           - file: week06/lists-tuples.ipynb
+          - file: week06/walkthrough.ipynb
       - file: week07/overview.md
         sections:
           - file: week07/dictionaries-basics.md
           - file: week07/dictionaries.ipynb
           - file: week07/LastName_FirstName_Exc5.ipynb
+          - file: week07/walkthrough.ipynb
   # BLOCK 3: Systems & Integration
   - file: block03/overview.md
     sections:
       - file: week08/overview.md
         sections:
           - file: week08/modules-basics.md
+          - file: week08/walkthrough.ipynb
       - file: week09/overview.md
         sections:
           - file: week09/files-basics.md
+          - file: week09/walkthrough.ipynb
       - file: week10/overview.md
         sections:
           - file: week10/apis-basics.md
           - file: week10/api-practice.ipynb
+          - file: week10/walkthrough.ipynb
       - file: week11/overview.md
         sections:
           - file: week11/postgres-python.ipynb
+          - file: week11/walkthrough.ipynb
       - file: week12/overview.md
         sections:
           - file: week12/oop-basics.md
           - file: week12/classes-practice.ipynb
+          - file: week12/walkthrough.ipynb
   # BLOCK 4: Python + Robotics
   - file: block04/overview.md
     sections:
       - file: week13/overview.md
         sections:
           - file: week13/robotics-basics.md
+          - file: week13/walkthrough.ipynb
       - file: week14/overview.md
+        sections:
+          - file: week14/walkthrough.ipynb
