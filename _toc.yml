@@ -9,7 +9,7 @@ chapters:
           - file: week01/course-introduction.md
           - file: week01/getting-started.md
           - file: week01/variables-and-naming.ipynb
-          - file: week01/exercises.md
+          #- file: week01/exercises.md
           - file: week01/exercises-interactive.ipynb
           - file: week01/walkthrough.ipynb
       - file: week02/overview.md
@@ -17,7 +17,7 @@ chapters:
           - file: week02/syntax.md
           - file: week02/operators.md
           - file: week02/data-types.ipynb
-          - file: week02/exercises.md
+         # - file: week02/exercises.md
           - file: week02/exercises-interactive.ipynb
           - file: week02/walkthrough.ipynb
       - file: week03/overview.md
