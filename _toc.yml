@@ -51,13 +51,19 @@ chapters:
         sections:
           - file: week09/files-basics.md
       - file: week10/overview.md
+        sections:
+          - file: week10/apis-basics.md
+          - file: week10/api-practice.ipynb
       - file: week11/overview.md
         sections:
           - file: week11/postgres-python.ipynb
+      - file: week12/overview.md
+        sections:
+          - file: week12/oop-basics.md
+          - file: week12/classes-practice.ipynb
   # BLOCK 4: Python + Robotics
   - file: block04/overview.md
     sections:
-      - file: week12/overview.md
       - file: week13/overview.md
         sections:
           - file: week13/robotics-basics.md

@@ -1,6 +1,6 @@
 # Introduction to Programming in Python
 
-**Course: INF 440 / LIS 805**  
+**Course: INF 426 / LIS 826**  
 **Instructor: Dr. Timothy D. Bowman**
 
 ## Welcome!
@@ -32,14 +32,14 @@ Work with real data using Python's powerful data structures and learn to process
 **Topics:** Loops • Lists • Tuples • Dictionaries • **Midterm Exam**
 
 ### [Block 3: Systems, APIs, AI & Object Thinking](block03/overview.md)
-**Weeks 8-11 | Core Question:** *How do programs interact with other systems?*
+**Weeks 8-12 | Core Question:** *How do programs interact with other systems?*
 
 Connect to external systems, work with databases and APIs, and understand object-oriented programming.
 
 **Topics:** Modules • Files • APIs • JSON • Databases • OOP
 
 ### [Block 4: Python + Robotics (Capstone)](block04/overview.md) 🤖
-**Weeks 12-14 | Core Question:** *How do software systems perceive, decide, and act?*
+**Weeks 13-15 | Core Question:** *How do software systems perceive, decide, and act?*
 
 Build a virtual robot that navigates, makes decisions, and accomplishes tasks—**no physical hardware required!**
 
@@ -137,7 +137,7 @@ If you need assistance:
 
 ---
 
-## 🎓 For Graduate Students (LIS 805)
+## 🎓 For Graduate Students (LIS 826)
 
 Graduate students have additional requirements:
 - Deeper theoretical analysis
@@ -145,7 +145,7 @@ Graduate students have additional requirements:
 - Critical reflections on AI, ethics, automation
 - Connections to information science theory
 
-Look for **Graduate (LIS 805)** sections throughout the textbook.
+Look for **Graduate (LIS 826)** sections throughout the textbook.
 
 ---
 

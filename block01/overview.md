@@ -1,6 +1,6 @@
 # Block 1: Computational Thinking & Python Foundations
 
-**Duration:** Weeks 1-4 (August - September)  
+**Duration:** Weeks 1-4  
 **Core Question:** *How do we tell computers to think?*
 
 ---

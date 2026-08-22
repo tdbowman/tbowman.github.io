@@ -1,6 +1,6 @@
 # Block 3: Systems, APIs, AI & Object Thinking
 
-**Duration:** Weeks 8-11
+**Duration:** Weeks 8-12
 **Core Question:** *How do programs interact with other systems and make decisions?*
 
 ---
@@ -72,6 +72,32 @@ Modern software doesn't exist in isolation—it connects to databases, APIs, clo
 
 **Key Concept:** Databases manage data at scale
 
+### [Week 12: Object-Oriented Programming](../week12/overview.md)
+- Classes and objects review
+- Designing robot classes
+- Methods for robot behavior
+- Inheritance (different robot types)
+- Encapsulation and state management
+
+**Key Concept:** Robots are objects with state and behavior
+
+**Robotics Connection:**
+```python
+class Robot:
+    def __init__(self, x, y):
+        self.x = x  # Position
+        self.y = y
+        self.direction = "north"
+    
+    def move_forward(self):
+        # Move logic
+        pass
+    
+    def sense_obstacle(self):
+        # Check for obstacles
+        pass
+```
+
 ---
 
 ## 📝 Assignments in This Block
@@ -81,7 +107,7 @@ Modern software doesn't exist in isolation—it connects to databases, APIs, clo
   - Work with files and structured data
   - Apply modules and organization
 
-- **Assignment 3**
+- **Assignment 3** *(bonus this semester)*
   - Work with APIs or databases
   - Integrate external data sources
   - Build a complete data pipeline
@@ -90,11 +116,6 @@ Modern software doesn't exist in isolation—it connects to databases, APIs, clo
 - **Reflection #2** - AI and automation
 - **Reflection #3** - Data ethics and privacy
 - **Reflection #4** - System integration challenges
-
-### Group Project
-- Continue working on group project
-- Apply APIs or databases to project
-- Prepare for final presentation
 
 ---
 
@@ -168,6 +189,7 @@ Block 4 applies everything to robotics simulation:
 **Week 9:** Always use `with` for file operations—safer and cleaner  
 **Week 10:** Test with small API calls first—understand before scaling  
 **Week 11:** Practice SQL separately—it's a different language  
+**Week 12:** Sketch your classes on paper before you code them  
 
 ### Study Habits
 1. **Build small projects** - Weather app, news aggregator, data logger
@@ -256,7 +278,8 @@ Block 3: Systems, APIs, AI & Object Thinking
 ├── Week 8: Modules
 ├── Week 9: Files
 ├── Week 10: Internet Data & APIs
-└── Week 11: JSON, SQL & PostgreSQL
+├── Week 11: JSON, SQL & PostgreSQL
+└── Week 12: Object-Oriented Programming
 
 Previous: Block 2 ← Data Structures
 Next: Block 4 → Python + Robotics
@@ -264,7 +287,7 @@ Next: Block 4 → Python + Robotics
 
 ---
 
-## 🎓 Graduate Students (LIS 805)
+## 🎓 Graduate Students (LIS 826)
 
 Block 3 is where graduate work differentiates:
 

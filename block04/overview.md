@@ -1,6 +1,6 @@
 # Block 4: Python + Robotics (No Hardware Capstone)
 
-**Duration:** Weeks 12-14 
+**Duration:** Weeks 13-15
 **Core Question:** *How do software systems perceive, decide, and act?*
 
 ---
@@ -59,32 +59,6 @@ You don't need motors and circuits to learn robotics concepts. Professional robo
 
 ## 📅 Weekly Topics
 
-### [Week 12: Object-Oriented Programming](../week12/overview.md)
-- Classes and objects review
-- Designing robot classes
-- Methods for robot behavior
-- Inheritance (different robot types)
-- Encapsulation and state management
-
-**Key Concept:** Robots are objects with state and behavior
-
-**Robotics Connection:**
-```python
-class Robot:
-    def __init__(self, x, y):
-        self.x = x  # Position
-        self.y = y
-        self.direction = "north"
-    
-    def move_forward(self):
-        # Move logic
-        pass
-    
-    def sense_obstacle(self):
-        # Check for obstacles
-        pass
-```
-
 ### [Week 13: Robotics Simulation](../week13/overview.md) **← NEW!**
 - Virtual robot environments
 - Grid-world navigation
@@ -111,6 +85,15 @@ class Robot:
 - Demonstrate and present your work
 
 **Key Concept:** Synthesize everything you've learned
+
+### Week 15: Capstone Work Week
+- No new material — this is your build-and-submit week
+- Final testing and debugging
+- README, docstrings, and demo video
+- Reflection paper
+- Submit on Canvas
+
+**Key Concept:** Shipping is part of the work
 
 ---
 
@@ -149,7 +132,7 @@ class Robot:
 
 ### Technical Requirements
 
-| Requirement | Undergraduate (INF 440) | Graduate (LIS 805) |
+| Requirement | Undergraduate (INF 426) | Graduate (LIS 826) |
 |-------------|------------------------|-------------------|
 | Movement logic | ✔️ Required | ✔️ Required |
 | OOP design | ✔️ Required | ✔️ Required (advanced) |
@@ -299,7 +282,7 @@ Your virtual robot skills apply to:
 
 ---
 
-## 🎓 Graduate Students (LIS 805)
+## 🎓 Graduate Students (LIS 826)
 
 Additional expectations:
 
@@ -324,7 +307,7 @@ Additional expectations:
 
 ## 🚀 Getting Started
 
-**Build your foundation:** [Week 12: Object-Oriented Programming](../week12/overview.md)
+**Build your foundation:** [Week 12: Object-Oriented Programming](../week12/overview.md) (now the last week of Block 3)
 
 **Then create your robot:** [Week 13: Robotics Simulation](../week13/overview.md)
 
@@ -336,9 +319,9 @@ Additional expectations:
 
 ```
 Block 4: Python + Robotics
-├── Week 12: OOP (Robot Design)
 ├── Week 13: Robotics Simulation ← NEW!
-└── Week 14: Final Capstone Project
+├── Week 14: Final Capstone Project
+└── Week 15: Capstone work week (submission)
 
 Previous: Block 3 ← Systems & Integration
 Complete: Full Course Journey 🎉

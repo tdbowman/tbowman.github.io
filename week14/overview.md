@@ -103,7 +103,7 @@ Choose ONE of the following project types:
 
 ## 📋 Technical Requirements
 
-### Undergraduate (INF 440)
+### Undergraduate (INF 426)
 
 **Required:**
 - ✅ Working robot navigation (move, turn, sense)
@@ -119,7 +119,7 @@ Choose ONE of the following project types:
 - AI/ML component
 - Advanced pathfinding
 
-### Graduate (LIS 805)
+### Graduate (LIS 826)
 
 **Required (all UG requirements plus):**
 - ✅ Advanced algorithms (A*, Dijkstra, or similar)
