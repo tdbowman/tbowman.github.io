@@ -36,7 +36,7 @@ chapters:
       - file: week05/overview.md
         sections:
           - file: week05/for-loops.md
-          - file: week05//LastName_FirstName_Exc4.ipynb
+          - file: week05/LastName_FirstName_Exc4.ipynb
           - file: week05/walkthrough.ipynb
       - file: week06/overview.md
         sections:
